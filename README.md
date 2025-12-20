@@ -335,18 +335,18 @@
 const paulson = {
     location: "Accra, Ghana 🇬🇭",
     role: "Full-Stack Developer",
-    education: "Self-Taught Developer",
+    education: "Bsc Information Technology - University of Ghana",
     
     interests: [
         "Web Development",
         "Mobile Apps",
-        "UI/UX Design",
+        "Backend with Eexpress and FastAPI",
         "Cloud Architecture"
     ],
     
     currentlyLearning: [
         "Advanced System Design",
-        "DevOps Practices",
+        "Backend with express and third party services",
         "Cloud Infrastructure"
     ]
 };
@@ -363,8 +363,8 @@ const techStack = {
     ],
     
     backend: [
-        "Node.js", "Python",
-        "Django", "FastAPI"
+        "Node.js with Express", 
+        "Python with FastAPI"
     ],
     
     database: [
@@ -373,7 +373,7 @@ const techStack = {
     
     cloud: [
         "Vercel", "Netlify",
-        "Render", "Railway"
+        "Render", 
     ]
 };
 ```
@@ -386,13 +386,13 @@ const techStack = {
 
 ### 💭 **Life Philosophy**
 
-**"Code with passion, ship with confidence 🚀"**
+**"I can do all things throught Christ who strenthens me - Philippians 4:13 🚀"**
 
 <br/>
 
 ### 🎨 **Fun Fact**
 
-**I can turn coffee into code ☕ → 💻**
+**Code code code code!!!! ☕ → 💻**
 
 <br/>
 
