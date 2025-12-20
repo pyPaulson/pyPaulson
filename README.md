@@ -264,8 +264,11 @@
 
 ## 📊 **GitHub Analytics**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pyPaulson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&ring_color=6366F1" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=pyPaulson&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=pyPaulson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF&ring_color=6366F1&count_private=true&include_all_commits=true" />
+
+<br/>
+
+<img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=pyPaulson&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" />
 
 <br/>
 
